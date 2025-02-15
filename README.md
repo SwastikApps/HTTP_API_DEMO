@@ -1,16 +1,7 @@
-# apidemo
+**Flutter HTTP API Demo** 🚀
 
-A new Flutter project.
+**This demo shows how to make API calls in Flutter using the http package. We'll fetch data from a free API and display it in a simple UI.**
 
-## Getting Started
+**Flutter provides an easy way to fetch, send, update, and delete data using the http package.**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-02-15 120258](https://github.com/user-attachments/assets/e71bb998-2c6c-40d3-ac64-1bfbba000d8a)
